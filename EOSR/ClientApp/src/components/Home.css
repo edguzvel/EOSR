@@ -1,0 +1,20 @@
+﻿.home-container {
+    width: 100%;
+}
+
+.timeline {
+    max-width: 600px; /* Or however wide you want your timeline to be */
+    margin: auto;
+    height: 80vh; /* Use vh for viewport height to make it dependent on the window size */
+    overflow-y: scroll; /* This enables scrolling */
+    padding: 20px;
+     /* Optional, for a slight shadow effect */
+}
+
+.report {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
