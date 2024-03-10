@@ -15,7 +15,7 @@ export class Home extends Component {
             { id: 2, date: '2024-03-07', content: 'Report content for March 7th...' },
             { id: 1, date: '2024-03-08', content: 'Report content for March 9th...' },
             { id: 2, date: '2024-03-07', content: 'Report content for March 10th...' }
-            // ...more reports
+            
         ]
     };
 
